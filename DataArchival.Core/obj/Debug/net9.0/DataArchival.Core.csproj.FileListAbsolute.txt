@@ -1,0 +1,15 @@
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/bin/Debug/net9.0/DataArchival.Core.deps.json
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/bin/Debug/net9.0/DataArchival.Core.dll
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/bin/Debug/net9.0/DataArchival.Core.pdb
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.xml
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.csproj.AssemblyReference.cache
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.AssemblyInfoInputs.cache
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.AssemblyInfo.cs
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.csproj.CoreCompileInputs.cache
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArch.9DD9F753.Up2Date
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.dll
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/refint/DataArchival.Core.dll
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/DataArchival.Core.pdb
+/Users/saurabh/Documents/DataArchival/DataArchival.Core/obj/Debug/net9.0/ref/DataArchival.Core.dll

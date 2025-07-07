@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArchival.App", "DataArchival.App\DataArchival.App.csproj", "{91DB3C4E-A181-4A87-99E5-1A158F32D81C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArchival.Core", "DataArchival.Core\DataArchival.Core.csproj", "{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91DB3C4E-A181-4A87-99E5-1A158F32D81C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DB3C4E-A181-4A87-99E5-1A158F32D81C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DB3C4E-A181-4A87-99E5-1A158F32D81C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DB3C4E-A181-4A87-99E5-1A158F32D81C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
