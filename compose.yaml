@@ -1,0 +1,7 @@
+﻿services:
+  dataarchival.app:
+    image: dataarchival.app
+    build:
+      context: .
+      dockerfile: DataArchival.App/Dockerfile
+
