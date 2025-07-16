@@ -3,7 +3,7 @@ using DataArchival.Core.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DataArchival.App.Controllers;
+namespace DataArchival.Main.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]

@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArchival.App", "DataArchival.App\DataArchival.App.csproj", "{91DB3C4E-A181-4A87-99E5-1A158F32D81C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArchival.Main", "DataArchival.Main\DataArchival.Main.csproj", "{91DB3C4E-A181-4A87-99E5-1A158F32D81C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataArchival.Core", "DataArchival.Core\DataArchival.Core.csproj", "{FBFC1260-9020-41E3-BCD6-DEFEDD6A6E91}"
 EndProject

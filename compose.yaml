@@ -5,3 +5,9 @@
       context: .
       dockerfile: DataArchival.App/Dockerfile
 
+  dataarchival.main:
+    image: dataarchival.main
+    build:
+      context: .
+      dockerfile: DataArchival.Main/Dockerfile
+
